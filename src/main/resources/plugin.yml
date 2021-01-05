@@ -1,0 +1,4 @@
+main: fr.blueberry.studio.hermes.plugins.discordMemberCount.DiscordMemberCount
+name: DiscordMemberCount
+version: 0.1
+author: Grimille
