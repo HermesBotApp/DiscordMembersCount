@@ -20,8 +20,8 @@
   <dependencies>
     <dependency>
       <groupId>fr.blueberry-studio.hermes</groupId>
-      <artifactId>Hermes</artifactId>
-      <version>0.8-ALPHA</version>
+      <artifactId>hermes-api</artifactId>
+      <version>0.10.1-SNAPSHOT</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
